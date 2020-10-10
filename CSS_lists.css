@@ -1,0 +1,18 @@
+ol	{
+	list-style-type: upper-roman;
+	color: red;
+	background-color: black;
+	
+}
+
+ul	{
+	list-style-type: square;
+	color: blue;
+	background-color: darkorange;
+}
+h1	{
+	text-shadow: 2px 2px 8px #FFFF00;
+	color: cream;
+	background-color: brown;
+}
+	
